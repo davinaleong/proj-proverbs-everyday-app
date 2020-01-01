@@ -1,1 +1,1 @@
-build
+# Proverbs Everyday App
